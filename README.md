@@ -28,20 +28,20 @@
    . SoftwareSerial (for GSM communication)
 
 ## **Usage**
-*. Deploy the system in a public area.
-*. Power up the hardware and ensure GSM connectivity.
-*. Monitor the system for SMS alerts in case of:
+1. Deploy the system in a public area.
+2. Power up the hardware and ensure GSM connectivity.
+3. Monitor the system for SMS alerts in case of:
     . High temperatures exceeding the threshold.
     . Seismic activity indicative of an earthquake.
 
 **Applications**
-  . Hospitals: Early warnings for temperature and seismic activity.
-  . Government Schools: Enhancing safety for children and staff.
-  . Colleges: Creating awareness and ensuring timely evacuation.
-  . Public Spaces: Alerting large gatherings to emergencies.
+  1. Hospitals: Early warnings for temperature and seismic activity.
+  2. Government Schools: Enhancing safety for children and staff.
+  3. Colleges: Creating awareness and ensuring timely evacuation.
+  4. Public Spaces: Alerting large gatherings to emergencies.
 
 ## **Future Enhancements**
-$. Integrate gas or smoke detection for fire safety.
-$. Add location tracking to SMS alerts for pinpointing incidents.
-$. Enhance scalability by integrating LoRa or Wi-Fi for large-scale deployments.
-$. Develop a mobile application for real-time monitoring.
+1. Integrate gas or smoke detection for fire safety.
+2. Add location tracking to SMS alerts for pinpointing incidents.
+3. Enhance scalability by integrating LoRa or Wi-Fi for large-scale deployments.
+4. Develop a mobile application for real-time monitoring.
